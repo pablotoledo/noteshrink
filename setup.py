@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+<<<<<<< HEAD
 
 //Preparar fallo de merge A
 //Preparar fallo de merge A
@@ -8,6 +9,15 @@
 //Preparar fallo de merge A
 //Preparar fallo de merge A
 
+=======
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+>>>>>>> de6c1d7... texto de master nuevo
 from __future__ import print_function
 
 import os
