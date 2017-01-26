@@ -14,6 +14,11 @@ if sys.argv[-1] == "publish":
     print("  git push --tags")
     sys.exit()
 
+    ///Comentario 1
+    /////Comentario 1
+    ///Comentario 1
+    ///Comentario 1
+
 setup(
     name="noteshrink",
     version="0.1.1",
