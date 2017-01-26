@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
+//TEXTO DE MASTER
 from __future__ import print_function
 
 import os
