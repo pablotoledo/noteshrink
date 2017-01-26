@@ -39,4 +39,5 @@ setup(
         [console_scripts]
         noteshrink=noteshrink:main
     """,
+    cambio de temporal
 )
