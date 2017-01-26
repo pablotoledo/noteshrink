@@ -13,7 +13,7 @@ if sys.argv[-1] == "publish":
     print("  git tag -a VERSION -m 'version VERSION'")
     print("  git push --tags")
     sys.exit()
-    ///Comentario 3
+    ///Comentario 2
     ///Comentario 3
     ///Comentario 3
     ///Comentario 3
